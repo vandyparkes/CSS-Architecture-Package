@@ -41,6 +41,6 @@ Checked around 375px and a wide window in Chrome:
 - 2-up and 3-up cards on wide
 - Skip link, nav, buttons, and form fields use the same 3px accent outline
 - Invalid email on the Services form: warning border and error text
-- Print preview on Services: nav, buttons, form, and video hide
+- Print preview on Services: nav, buttons, form, and media placeholders hide
 
 Safari and Firefox still need a pass.

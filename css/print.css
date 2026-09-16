@@ -10,7 +10,7 @@
   .site-header nav,
   .button,
   .session-form,
-  iframe,
+  .media-object__frame,
   .no-print {
     display: none !important;
   }
