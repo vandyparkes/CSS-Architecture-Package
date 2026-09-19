@@ -65,6 +65,7 @@
   margin-inline-start: var(--space-8);
 }
 
+/* Default card layout before a container query. Stacked rows, padding, and a gap. */
 .card {
   --card-padding: var(--space-24);
   --card-gap: var(--space-8);
