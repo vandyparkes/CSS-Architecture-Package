@@ -1,7 +1,7 @@
 # Why a container query
 
-The same card sits in a narrow track and a wide one.
+This card shows up in a skinny column and a wide one.
 
-A viewport query only sees the window. It cannot tell those two cards apart.
+`@media` only knows the window. Both cards would get the same rule.
 
-A container query sees the card’s own width. The badges move when that card has room.
+`@container` checks the card. If the query never runs, it just stays stacked.

@@ -1,7 +1,7 @@
 # Two container widths
 
-Same card. Two containers.
+I put the same card in a 12rem box and a 28rem box.
 
-12rem container: badges stack.
+Narrow one: badges stack.
 
-28rem container: badges sit on one row.
+Wide one: they sit on one row.
