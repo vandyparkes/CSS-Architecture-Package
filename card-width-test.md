@@ -1,7 +1,7 @@
-# Card width test
+# Two container widths
 
-Same card. Two parents.
+Same card. Two containers.
 
-12rem parent: badges stack.
+12rem container: badges stack.
 
-28rem parent: badges sit on one row.
+28rem container: badges sit on one row.
