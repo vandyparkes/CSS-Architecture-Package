@@ -1,12 +1,12 @@
 /* Layout */
 
 .container {
-  width: min(100% - var(--space-32), var(--content-width));
+  inline-size: min(100% - var(--space-32), var(--content-width));
   margin-inline: auto;
 }
 
 .container--media {
-  width: min(100% - var(--space-32), var(--media-width));
+  inline-size: min(100% - var(--space-32), var(--media-width));
 }
 
 .section {
@@ -23,9 +23,9 @@
 }
 
 .site-footer {
-  margin-top: var(--space-48);
+  margin-block-start: var(--space-48);
   padding-block: var(--space-32);
-  border-top: var(--border);
+  border-block-start: var(--border);
 }
 
 .grid {
