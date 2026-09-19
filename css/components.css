@@ -73,6 +73,7 @@
   --card-gap: var(--space-8);
 
   display: grid;
+  grid-template-columns: 1fr;
   gap: var(--card-gap);
   padding: var(--card-padding);
   border: var(--border);
