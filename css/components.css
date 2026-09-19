@@ -67,6 +67,8 @@
 
 /* Default card layout before a container query. Stacked rows, padding, and a gap. */
 .card {
+  /* Query container. This card is measured by its own width. */
+  container-type: inline-size;
   --card-padding: var(--space-24);
   --card-gap: var(--space-8);
 
